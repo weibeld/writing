@@ -1,6 +1,12 @@
-# How to Use Terminal Control Commands
+# Terminal Control Commands (Practice)
 
 Demonstration of how command-line based applications can use terminal control commands (terminal capabilities) to control what's displayed on the terminal.
+
+Practical usage of terminal control commands:
+
+- Termcap, terminfo
+- ncurses
+- etc.
 
 ## Content
 

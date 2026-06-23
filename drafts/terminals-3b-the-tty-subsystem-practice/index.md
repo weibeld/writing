@@ -1,4 +1,4 @@
-# How to Configure a TTY Device
+# The TTY Subsystem (Practice)
 
 Take a closer look at the options for configuring a TTY device and how this plays together with line editing, in particular in Bash.
 

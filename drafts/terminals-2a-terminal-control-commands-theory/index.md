@@ -1,13 +1,8 @@
-# Terminal Control Commands
+# Terminal Control Commands (Theory)
+
+How a terminal can be controlled by applications.
 
 Demistify terminal control commands with a focus on the ANSI/VT100 commands (see below).
-
-Part of the teminal series:
-
-1. [Terminal Control Commands](https://github.com/weibeld/writing/blob/main/drafts/terminal-control-commands/index.md)
-2. [The TTY Subsystem](https://github.com/weibeld/writing/blob/main/drafts/the-tty-subsystem/index.md)
-3. [How to Configure a TTY Device](https://github.com/weibeld/writing/blob/main/drafts/how-to-configure-a-tty-device/index.md)
-4. [How to Use Terminal Control Commands](https://github.com/weibeld/writing/blob/main/drafts/how-to-use-terminal-control-commands/index.md)
 
 ## Content
 
@@ -42,20 +37,11 @@ Part of the teminal series:
 
 ## Remarks
 
-This is the first article of a three-part series about terminals:
-
-1. Terminal control commands: how a terminal can be controlled by applications
-1. TTY subsystem: how characters move from a terminal to an app and vice versa in UNIX/Linux
-1. Bash line editing: clearing up some confusion about line editing
-
 Further topics that might be covered in separate articles are:
 
 1. Terminal input sequences: how some terminal control commands can also be entered through the keyboard (see [Terminal input sequenes](https://en.wikipedia.org/wiki/ANSI_escape_code#Terminal_input_sequences))
     - Is this still relevant today?
     - Maybe this just refers to the encoding of non-alphanumeric keys when they are sent from the terminal to the host?
-1. Practical usage of terminal control commands
-    - Termcap, terminfo
-    - ncurses, etc.
 
 
 ## Resources

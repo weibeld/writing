@@ -1,13 +1,8 @@
-# The TTY Subsystem
+# The TTY Subsystem (Theory)
+
+How characters move from a terminal to an app and vice versa in UNIX/Linux.
 
 Explain the TTY subsystem in high-level terms.
-
-Part of the teminal series:
-
-1. [Terminal Control Commands](https://github.com/weibeld/writing/blob/main/drafts/terminal-control-commands/index.md)
-2. [The TTY Subsystem](https://github.com/weibeld/writing/blob/main/drafts/the-tty-subsystem/index.md)
-3. [How to Configure a TTY Device](https://github.com/weibeld/writing/blob/main/drafts/how-to-configure-a-tty-device/index.md)
-4. [How to Use Terminal Control Commands](https://github.com/weibeld/writing/blob/main/drafts/how-to-use-terminal-control-commands/index.md)
 
 ## Content
 
@@ -15,7 +10,7 @@ Part of the teminal series:
 
 - History
     - A physical terminal could be either in line mode or character mode (see [Terminal Character Mode vs Line Mode](https://github.com/weibeld/weibeld-notes/blob/main/notes/terminal-character-mode-vs-line-mode.md))
-    - The mode of the terminal could be set by the host through terminal control commands (see [Terminal Control Commands](https://github.com/weibeld/writing/blob/main/drafts/terminal-control-commands/index.md))
+    - The mode of the terminal could be set by the host through terminal control commands (see [Terminal Control Commands (Theory)](https://github.com/weibeld/writing/blob/main/drafts/terminals-2a-terminal-control-commands-theory/index.md))
         - TODO: verify
     - Line mode: the terminal buffers characters internally and only sends the entire string to the host when Enter is pressed
         - Note: this is the reason that the [Enter key is called Enter](https://en.wikipedia.org/wiki/Enter_key#History) (IBM 3270 and 5250 have separate Enter and  Return keys)

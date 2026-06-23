@@ -1,4 +1,4 @@
-# Bash Command Line Editing
+# Bash Command Line Editing (Theory)
 
 The Bash [command-line editing](https://www.gnu.org/software/bash/manual/bash.html#Command-Line-Editing) functionality is provided by [GNU Readline](https://tiswww.cwru.edu/php/chet/readline/rltop.html). 
 
@@ -8,7 +8,7 @@ The article should also stress that, since Readline is used by various applicati
 
 ## Content
 
-- Reference [How to Configure a TTY Device](https://github.com/weibeld/writing/blob/main/drafts/how-to-configure-a-tty-device/index.md) which states that by default Bash sets the TTY to raw mode and does the line editing itself
+- Reference [The TTY Subsystem (Practice)](https://github.com/weibeld/writing/blob/main/drafts/terminals-3b-the-tty-subsystem-practice/index.md) which states that by default Bash sets the TTY to raw mode and does the line editing itself
 - Introduce GNU Readline
 - List Readline features (see [GNU Readline Line Editing Commands](https://github.com/weibeld/weibeld-notes/blob/main/notes/gnu-readline-line-editing-commands.md)) and how they're used in Bash
     - Line editing
