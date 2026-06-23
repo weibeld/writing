@@ -1,10 +1,4 @@
----
-id: i1eivn3mrncnwkbebj1s1rg
-title: Deploying an Application with Persistent Storage on Kubernetes
-desc: ''
-updated: 1679674796677
-created: 1679674201696
----
+# Deploying an Application with Persistent Storage on Kubernetes
 
 Demonstration of the basics of including persistent storage on Kubernetes.
 

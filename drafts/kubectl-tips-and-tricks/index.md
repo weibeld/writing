@@ -1,10 +1,4 @@
----
-id: zuaporuaymm38sh1tyoyzxi
-title: Kubectl Tips and Tricks
-desc: ''
-updated: 1679686348974
-created: 1679674956968
----
+# Kubectl Tips and Tricks
 
 Part 2 of the infamous "Boosting your kubectl productivity" article.
 

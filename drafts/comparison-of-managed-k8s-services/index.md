@@ -1,10 +1,4 @@
----
-id: 5i57pfvasv0vp99g37ar9ai
-title: Comparison of Managed Kubernetes Services
-desc: ''
-updated: 1679333550587
-created: 1679073696430
----
+# Comparison of Managed Kubernetes Services
 
 Systematic comparison along a number of well-defined dimensions of the following managed Kubernetes services:
 

@@ -1,10 +1,4 @@
----
-id: 5g2cxog1u1tpf17j641ua1e
-title: The TTY Subsystem
-desc: ''
-updated: 1679594831874
-created: 1679168043152
----
+# The TTY Subsystem
 
 Explain the TTY subsystem in high-level terms.
 

@@ -27,6 +27,7 @@ Notes:
 - When a write-up is finished and ready for publishing, it is moved from the `drafts/` directory to the `finished/` directory.
 - The directory name of a write-up may still change while it's in the `drafts/` directory, but it shouldn't change anymore when it's in the `finished/ directory.
 - The directory name of a write-up ideally corresponds to the write-up's title (as defined in `index.md`) in kebab-case. However, this is not a strict requirements, if, for example, the title is very long or the directory name differs just slightly from the title.
+- Some write-ups in `drafts/` do additionally contain a `metadata.legacy.yaml` file containing a "created" and "last updated" date. These dates have been taken from the previous legacy file format and are just included for completeness. It's not yet sure if these dates will be used at all, but in any case, these `metadata.legacy.yaml` should eventually be deleted.
 
 ## Structure of `index.md`
 

@@ -1,10 +1,4 @@
----
-id: 1mmwtms50pr90lv4mcy1bn6
-title: Terminal Control Commands
-desc: ''
-updated: 1679333274661
-created: 1679160003176
----
+# Terminal Control Commands
 
 Demistify terminal control commands with a focus on the ANSI/VT100 commands (see below).
 

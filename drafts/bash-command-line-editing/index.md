@@ -1,10 +1,4 @@
----
-id: yei2dho4egmayo20xv4cif4
-title: Bash Command Line Editing
-desc: ''
-updated: 1679673719504
-created: 1679595355905
----
+# Bash Command Line Editing
 
 The Bash [command-line editing](https://www.gnu.org/software/bash/manual/bash.html#Command-Line-Editing) functionality is provided by [GNU Readline](https://tiswww.cwru.edu/php/chet/readline/rltop.html). 
 

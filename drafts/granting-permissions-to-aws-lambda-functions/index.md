@@ -1,10 +1,4 @@
----
-id: 1x3sfhsvsk38h8uqzlrffet
-title: Granting Permissions to AWS Lambda Functions
-desc: ''
-updated: 1679333596870
-created: 1679089826543
----
+# Granting Permissions to AWS Lambda Functions
 
 Tutorial-like walk-trough for defining permissions for AWS Lambda functions in SAM and CloudFormation definitions.
 

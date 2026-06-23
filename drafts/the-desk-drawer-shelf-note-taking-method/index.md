@@ -1,10 +1,4 @@
----
-id: 1ws0x8ekn0iza1mo2wpx6qc
-title: The Desk Drawer Shelf Note-Taking Method
-desc: ''
-updated: 1679962910807
-created: 1679962806401
----
+# The Desk Drawer Shelf Note-Taking Method
 
 Present the desk-drawer-shelf note-taking method.
 

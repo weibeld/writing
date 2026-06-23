@@ -1,10 +1,4 @@
----
-id: u5u7wn0qxzevvf2urai7ulb
-title: Introduction to Terminals
-desc: ''
-updated: 1679594565370
-created: 1679594015747
----
+# Introduction to Terminals
 
 Setting the stage for more advanced articles about terminals. 
 

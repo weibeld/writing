@@ -1,10 +1,4 @@
----
-id: wcnz692wzd7s0nmv3i8o3ap
-title: How to Use Terminal Control Commands
-desc: ''
-updated: 1679592211370
-created: 1679320584067
----
+# How to Use Terminal Control Commands
 
 Demonstration of how command-line based applications can use terminal control commands (terminal capabilities) to control what's displayed on the terminal.
 

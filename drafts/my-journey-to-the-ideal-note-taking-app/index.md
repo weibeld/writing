@@ -1,10 +1,4 @@
----
-id: 5ji6i8alppifg0ktmniyrd2
-title: My Journey to the Ideal Note-Taking App
-desc: ''
-updated: 1679964247412
-created: 1679962972428
----
+# My Journey to the Ideal Note-Taking App
 
 Describe journey from Notion to Obsidian to Dendron to... _(to be continued)_
 

@@ -1,10 +1,4 @@
----
-id: tgsmhyxa9sk7j0edgmpob6a
-title: How to Configure a TTY Device
-desc: ''
-updated: 1679595086248
-created: 1679168922710
----
+# How to Configure a TTY Device
 
 Take a closer look at the options for configuring a TTY device and how this plays together with line editing, in particular in Bash.
 

@@ -1,10 +1,4 @@
----
-id: l58is4gcbn6gewgcfevgdfo
-title: Linux Filesystem Hierarchy
-desc: ''
-updated: 1679686917968
-created: 1679686876105
----
+# Linux Filesystem Hierarchy
 
 Short overview and history of the UNIX/Linux filesystem hierarchy.
 
