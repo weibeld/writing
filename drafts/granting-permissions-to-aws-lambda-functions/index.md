@@ -7,11 +7,11 @@ Tutorial-like walk-trough for defining permissions for AWS Lambda functions in S
 ## Remarks
 
 - Fairly advanced Medium draft from 2018 exists (see below)
-- Presumably, this was a precursor to the creation of [Introduction to AWS IAM Policies](https://github.com/weibeld/writing/blob/main/drafts/introduction-to-aws-iam-policies/index.md)
+- Presumably, this was a precursor to the creation of [Introduction to AWS IAM Policies](https://github.com/weibeld/nightingale/blob/main/drafts/introduction-to-aws-iam-policies/index.md)
 
 > TODO: refactor this article to define a specific Lambda function with a specific permission set in SAM, CloudFormation, and Terraform?
 
 ## Resources
 
 1. https://medium.com/p/a6087061b0b3/edit
-1. [Introduction to AWS IAM Policies](https://github.com/weibeld/writing/blob/main/drafts/introduction-to-aws-iam-policies/index.md)
+1. [Introduction to AWS IAM Policies](https://github.com/weibeld/nightingale/blob/main/drafts/introduction-to-aws-iam-policies/index.md)

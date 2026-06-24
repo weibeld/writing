@@ -10,7 +10,7 @@ Explain the TTY subsystem in high-level terms.
 
 - History
     - A physical terminal could be either in line mode or character mode (see [Terminal Character Mode vs Line Mode](https://github.com/weibeld/weibeld-notes/blob/main/notes/terminal-character-mode-vs-line-mode.md))
-    - The mode of the terminal could be set by the host through terminal control commands (see [Terminal Control Commands (Theory)](https://github.com/weibeld/writing/blob/main/drafts/terminals-2a-terminal-control-commands-theory/index.md))
+    - The mode of the terminal could be set by the host through terminal control commands (see [Terminal Control Commands (Theory)](https://github.com/weibeld/nightingale/blob/main/drafts/terminals-2a-terminal-control-commands-theory/index.md))
         - TODO: verify
     - Line mode: the terminal buffers characters internally and only sends the entire string to the host when Enter is pressed
         - Note: this is the reason that the [Enter key is called Enter](https://en.wikipedia.org/wiki/Enter_key#History) (IBM 3270 and 5250 have separate Enter and  Return keys)

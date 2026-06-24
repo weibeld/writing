@@ -1,4 +1,4 @@
-# CLAUDE.md — Stories
+# CLAUDE.md — Nightingale
 
 ## Current task
 
@@ -6,7 +6,7 @@
 
 ## About
 
-This repository serves as a central location for developing, collecting and publishing stories.
+Currently, Nightingale serves as a central location for developing, collecting and publishing stories.
 
 A story is any standalone text that may be published as, for example, an article.
 
