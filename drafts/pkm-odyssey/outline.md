@@ -90,20 +90,28 @@ TODO: should we rename Shelf/Box to Shelf/Heap (the name "heap" was being used b
 
 **References:**
 
-- [desk-drawer-shelf-method.md](https://github.com/weibeld/weibeld-notes/blob/main/notes/desk-drawer-shelf-method.md): detailed description of the desk-drawer-shelf method
+- [desk-drawer-shelf-method.md](https://github.com/weibeld/nightingale/blob/main/drafts/pkm-odyssey/sources/stage-3/desk-drawer-shelf-method.md): detailed description of the desk-drawer-shelf method
 
-## Stage 4: Abandon Monolithic approach and peel out unstrcutred notes and structued data cores
+## Stage 4: Abandon DDS method and focus on Vim and Git-based system for notes and records
 
 **Period:** 2023-2025
+
+- Same system for both unstructured notes and structured records
+- Entries are organised in "areas" which may be either notes or records and live in their own repositories
+- Transition from DDS method.
+  - Handle temporary notes off-the-loop in Google Keep or similar
+  - Handle todo tasks off-the-loop in Todoist or similar
+  - Handle project ideas, events etc in separate repositories
+- TODO: sources from https://github.com/users/weibeld/projects/18/views/1?pane=issue&itemId=105199840 (Old Notes) that were previously on Google Keep.
+
+## Stage 5: Split into separate tools for unstructured notes and structured data
+
+**Period:** 2025
 
 **Motivation:**
 
 - Insight that one monolithic app isn't ideal
 - Separate main apps for unstructured notes and structured data
-- Handle temporary notes off-the-loop in Google Keep or similar
-- Handle todo tasks off-the-loop in Todoist or similar
-- Handle project ideas, events etc in separate repositories
-- Peeling away concerns and leaving us with two main projects
 
 **Projects:** 
 - Toshokan: unstructured notes (Vim and Git-based)
@@ -125,7 +133,7 @@ TODO: should we rename Shelf/Box to Shelf/Heap (the name "heap" was being used b
 
 - GitHub Project: https://github.com/users/weibeld/projects/19
 
-## Stage 5: LLM Pivot - Make core solutions viable
+## Stage 6: LLM Pivot - Make core solutions viable
 
 **Period:** 2026
 
